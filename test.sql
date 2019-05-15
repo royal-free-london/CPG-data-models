@@ -1,1 +1,1 @@
-SELECT * from TEST
+SELECT * from TEST WHERE change='good'
