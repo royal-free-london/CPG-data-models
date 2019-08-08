@@ -1,1 +1,7 @@
-SELECT * from TEST WHERE change='good'
+SELECT
+	* 
+FROM
+	TEST 
+WHERE 
+	change='good' 
+	AND formatting='better'
