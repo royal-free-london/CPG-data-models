@@ -3,7 +3,6 @@ declare @end datetime   = '20190831 23:59:59'
 
 DROP TABLE DIV_Perf.dbo.CPG_SDEC_Performance
 
-
 SELECT  *
 INTO 
 DIV_Perf.dbo.CPG_SDEC_Performance
