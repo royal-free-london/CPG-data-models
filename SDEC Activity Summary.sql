@@ -209,7 +209,6 @@ from ##sw_frailty_last2years_score
 ) as j on LocalPatientIdentifierExtended = j.local_patient_id 
 
 
-
 WHERE 
  datediff(dd,PersonBirthDate,[EmergencyCareArrivalDate])/365.25 >=18
  and [EmergencyCareArrivalDateTime] between @start and @end
