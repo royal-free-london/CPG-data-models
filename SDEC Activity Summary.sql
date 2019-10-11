@@ -237,6 +237,6 @@ WHERE
 
 
 
- ---------------------- inpatient SDEC table -----
+ ---------------------- inpatient SDEC table ----------
 
  --select *  from [DIV_Perf].dbo.SDEC
