@@ -7,6 +7,7 @@ drop table ##SW_HeartFailure_PrimSecDiag2
 drop table ##SW_HeartFailure_PrimSecDiag_Report
 
 select
+
 distinct
 FinancialYear,
 FinancialQuarter,
